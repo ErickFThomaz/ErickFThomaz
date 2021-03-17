@@ -8,6 +8,8 @@ Learning Java, focused in backend.
 Learning HTML, CSS and Database.
 </pre>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFThomaz&langs_count=5&theme=radical)](https://github.com/ErickFThomaz)
+
 
 ### 📖 About Me
 
@@ -18,7 +20,10 @@ Learning HTML, CSS and Database.
 
 ## 🔧 Technologies & Tools
 
+<details>
+
 <br>
+
 
 * Programming languages
 
@@ -47,7 +52,7 @@ Learning HTML, CSS and Database.
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="IDEA" src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a">
 </p>
-
+</details>
 
 </br>
 
@@ -56,4 +61,3 @@ Learning HTML, CSS and Database.
 ## 👨‍💻 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFThomaz&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFThomaz&langs_count=5&theme=radical)](https://github.com/ErickFThomaz)
