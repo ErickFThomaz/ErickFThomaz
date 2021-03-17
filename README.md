@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Erick
 [<img alt= "LinkeIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://google.com)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](http://erickfthomaz@gmail.com)
+
 <br>
 <pre class="tab">
 Studying on Instituto PROA - Vila Olímpia, São Paulo - SP - Brazil
