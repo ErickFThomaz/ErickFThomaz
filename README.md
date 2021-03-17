@@ -1,4 +1,8 @@
 ## 👋 Hey, I’m Erick
+
+![](https://visitor-badge.glitch.me/badge?page_id=ErickFThomaz)
+
+
 <br>
 
 ### 📖 About Me
@@ -50,8 +54,6 @@ Learning HTML, CSS and Database.
 </details>
 
 </br>
-
-
 
 ## 👨‍💻 GitHub Stats
 
