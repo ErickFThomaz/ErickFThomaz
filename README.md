@@ -1,7 +1,13 @@
 ## 👋 Hey, I’m Erick
-[<img alt= "LinkeIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://google.com)
-
 <br>
+
+### 📖 About Me
+
+* I love everything I do
+* I always try to learn new things and technologies
+
+
+[<img alt= "LinkeIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://google.com)
 <pre class="tab">
 Studying on Instituto PROA - Vila Olímpia, São Paulo - SP - Brazil
 Learning Java, focused in backend.
@@ -10,20 +16,9 @@ Learning HTML, CSS and Database.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFThomaz&langs_count=5&theme=radical)](https://github.com/ErickFThomaz)
 
-
-### 📖 About Me
-
-* I love everything I do
-* I always try to learn new things and technologies
-</br>
-  
-
 ## 🔧 Technologies & Tools
 
 <details>
-
-<br>
-
 
 * Programming languages
 
