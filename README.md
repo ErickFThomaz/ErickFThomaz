@@ -18,7 +18,7 @@ Learning Java focused in backend.
 Learning HTML, CSS and Database.
 </pre>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFThomaz&langs_count=5&theme=radical)](https://github.com/ErickFThomaz)
+
 
 ## 🔧 Technologies & Tools
 
