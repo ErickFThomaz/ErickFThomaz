@@ -57,5 +57,5 @@ Learning HTML, CSS and Database.
 
 ## 👨‍💻 GitHub Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erickfth&range=&layout=compact&hide_title=true&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erickfth&layout=compact&hide_title=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFThomaz&show_icons=true&theme=radical&count_private=true)
