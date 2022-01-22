@@ -2,6 +2,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ErickFThomaz)
 
+<br>
+
+Click [here](https://github.com/ErickThomaz) to see my other account.
+
+</br>
+
 
 <br>
 
