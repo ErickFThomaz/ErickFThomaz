@@ -4,13 +4,6 @@
 
 <br>
 
-Click [here](https://github.com/ErickThomaz) to see my other account.
-
-</br>
-
-
-<br>
-
 ### 📖 About Me
 
 * I love everything I do
