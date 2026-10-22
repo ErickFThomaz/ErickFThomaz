@@ -24,7 +24,7 @@ Comecei programando bots de Discord em Java para comunidades de Minecraft e nunc
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**dashboard-whitelist**](https://github.com/ErickFThomaz/dashboard-whitelist) | Painel para avaliar candidaturas de whitelist de servidor RP: entrevista, lore, aprovar ou recusar | React · TypeScript · Vite |
+| **dashboard-whitelist** 🔒 | Painel para avaliar candidaturas de whitelist de servidor RP: entrevista, lore, aprovar ou recusar | React · TypeScript · Vite |
 | [**FinalCraft Bot**](https://github.com/ErickFThomaz/Gandalf) | Bot da comunidade FinalCraft, meu primeiro projeto grande (140+ commits) | Java · JDA · Gradle |
 | [**NovaEraBot**](https://github.com/ErickFThomaz/NovaEraBot) | Bot de Discord com sistema de música, pontos e utilidades | Java · JDA · Lavaplayer |
 | [**ImcApp**](https://github.com/ErickFThomaz/ImcApp) | App mobile de cálculo de IMC | React Native · TypeScript |
