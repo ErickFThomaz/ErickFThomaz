@@ -16,7 +16,7 @@
 
 Comecei programando bots de Discord em Java para comunidades de Minecraft e nunca mais parei. Hoje construo APIs, dashboards e ferramentas internas, do backend em Java/Spring e NestJS ao front em React/Next.js, e gosto de levar projeto do zero até o deploy com Docker.
 
-- 🔭 Agora: bots de Discord modulares com dashboard web e o launcher do **OblyviumRP**
+- 🔭 Agora: construindo o [**Oblyvium**](https://oblyvium.com.br), servidor de Minecraft RP com plugins, infra e launcher próprios
 - 🌱 Estudando: arquitetura de SaaS, monorepos em TypeScript e automação com IA
 - 💬 Pode me chamar pra falar de: Java, Discord bots, Minecraft e backend em geral
 
@@ -33,6 +33,24 @@ Comecei programando bots de Discord em Java para comunidades de Minecraft e nunc
 | **NovaByte** 🔒 | Bot de Discord vendido por assinatura, gerenciado por dashboard web | Java · Javalin · Next.js |
 
 <sub>🔒 = código privado, em desenvolvimento.</sub>
+
+## 🏰 Oblyvium
+
+<a href="https://oblyvium.com.br"><img src="https://img.shields.io/badge/oblyvium.com.br-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="oblyvium.com.br"/></a>
+<a href="https://github.com/OblyviumRP"><img src="https://img.shields.io/badge/OblyviumRP-181717?style=for-the-badge&logo=github&logoColor=white" alt="OblyviumRP no GitHub"/></a>
+
+Servidor de Minecraft roleplay que eu desenvolvo, com mais de 40 repositórios entre plugins, infraestrutura, launcher e site.
+
+| Área | O que tem |
+|---|---|
+| ⚔️ **Gameplay** | Plugin de RPG modular (perfil, atributos, classes, combate e economia), reinos e condados, profissões, cavalos míticos com habilidades, barcos e navios, ferimentos e doenças, fechaduras e chaves, duelos PvP com fila e minigames no lobby |
+| 🎨 **Visual** | HUDs e menus desenhados por resource pack, modelos 3D customizados, diálogos de NPC na action bar e um shaderpack realista |
+| 🧱 **Infra** | OblyviumAPI como base de todos os plugins, proxy Velocity com autenticação própria, servidor multithread (ShreddedPaper), LOD de mundo distante, observabilidade com profiler e alertas, painel de staff |
+| 🌐 **Fora do jogo** | Site em Next.js, bot de Discord com tickets e indicações (discord.js), dashboard da staff e launcher próprio |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,nextjs,discordjs,docker&perline=6" alt="Stack do Oblyvium"/>
+</p>
 
 ## 🛠️ Stack
 
@@ -51,7 +69,7 @@ Comecei programando bots de Discord em Java para comunidades de Minecraft e nunc
 | **2022** | ⚙️ **Finn** e **NovaEra**: bots maiores, com sistema de música e CI no GitHub Actions. |
 | **2023** | ⚛️ Mergulho no front: React + Tailwind, app de IMC em **React Native**, site em **Next.js** para o SyrxMC e app mobile com **Ionic/Capacitor**. |
 | **2025** | 🏗️ APIs de verdade: **LogiStock** (Spring Boot + JWT) e **FourStory** (NestJS + SQL Server com front em Next.js). |
-| **2026** | 🚀 Produtos completos: **NexusBot** (bot modular com Lavalink, API e dashboard em Docker), **NovaByte** (bot SaaS por assinatura), **Compass** (monorepo com servidor, CLI e web para contexto de times) e o launcher do **OblyviumRP**. |
+| **2026** | 🚀 Produtos completos: **NexusBot** (bot modular com Lavalink, API e dashboard em Docker), **NovaByte** (bot SaaS por assinatura), **Compass** (monorepo com servidor, CLI e web para contexto de times) e o ecossistema do **Oblyvium**: mais de 40 plugins Paper, proxy, launcher, site e bot. |
 
 ## 📊 GitHub
 
