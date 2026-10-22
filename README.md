@@ -1,62 +1,68 @@
-## 👋 Hey, I’m Erick
+<div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=ErickFThomaz)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Erick%20Ferreira%20Thomaz&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Backend%20%E2%80%A2%20Full-stack%20%E2%80%A2%20Bots%20%26%20ferramentas%20para%20devs&descAlignY=58&descSize=16" alt="Erick Ferreira Thomaz" width="100%"/>
 
-<br>
+<a href="https://github.com/ErickFThomaz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=520&lines=Backend+em+Java+%2B+Spring;APIs+com+NestJS+e+TypeScript;Dashboards+em+React+%2F+Next.js;Bots+de+Discord+desde+2020+%F0%9F%A4%96" alt="Digitando"/></a>
 
-### 📖 About Me
+📍 São Paulo, Brasil &nbsp;·&nbsp; 💼 Sette / Orla
 
-* I love everything I do
-* I always try to learn new things and technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-ferreira-thomaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickFThomaz)
+<img src="https://komarev.com/ghpvc/?username=ErickFThomaz&label=visitas&color=2563eb&style=for-the-badge" alt="Visitas"/>
 
+</div>
 
-[<img alt= "LinkeIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/erick-ferreira-thomaz/)
-<pre class="tab">
-Former student at Instituto PROA - Vila Olímpia, São Paulo - SP - Brazil
-Learning Java focused in backend.
-Learning HTML, CSS and Database.
-</pre>
+## 👋 Sobre mim
 
+Comecei programando bots de Discord em Java para comunidades de Minecraft e nunca mais parei. Hoje construo APIs, dashboards e ferramentas internas, do backend em Java/Spring e NestJS ao front em React/Next.js, e gosto de levar projeto do zero até o deploy com Docker.
 
+- 🔭 Agora: bots de Discord modulares com dashboard web e o launcher do **OblyviumRP**
+- 🌱 Estudando: arquitetura de SaaS, monorepos em TypeScript e automação com IA
+- 💬 Pode me chamar pra falar de: Java, Discord bots, Minecraft e backend em geral
 
-## 🔧 Technologies & Tools
+## 🚀 Projetos em destaque
 
-<details>
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**dashboard-whitelist**](https://github.com/ErickFThomaz/dashboard-whitelist) | Painel para avaliar candidaturas de whitelist de servidor RP: entrevista, lore, aprovar ou recusar | React · TypeScript · Vite |
+| [**FinalCraft Bot**](https://github.com/ErickFThomaz/Gandalf) | Bot da comunidade FinalCraft, meu primeiro projeto grande (140+ commits) | Java · JDA · Gradle |
+| [**NovaEraBot**](https://github.com/ErickFThomaz/NovaEraBot) | Bot de Discord com sistema de música, pontos e utilidades | Java · JDA · Lavaplayer |
+| [**ImcApp**](https://github.com/ErickFThomaz/ImcApp) | App mobile de cálculo de IMC | React Native · TypeScript |
+| [**LoginPage**](https://github.com/ErickFThomaz/LoginPage) | Desafio Rocketseat de página de login | React · Tailwind |
+| **NexusBot** 🔒 | Bot modular com módulos plugáveis, Lavalink, API e dashboard, tudo em Docker | Java · Spring · Next.js · MongoDB |
+| **NovaByte** 🔒 | Bot de Discord vendido por assinatura, gerenciado por dashboard web | Java · Javalin · Next.js |
 
-* Programming languages
+<sub>🔒 = código privado, em desenvolvimento.</sub>
 
-<p>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,ts,js,nodejs,nestjs,react,nextjs,tailwind&perline=10" alt="Linguagens e frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,nginx,git,github,githubactions,idea,vscode&perline=10" alt="Infra e ferramentas"/>
 </p>
 
+## 🧭 Linha do tempo
 
-* Web Server
-<p>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+| Ano | O que rolou |
+|:---:|---|
+| **2020** | 🤖 Primeiros bots de Discord em Java: uma lib de comandos para **JDA** e o bot da comunidade **FinalCraft**. |
+| **2021** | 🎓 Instituto **PROA** (Vila Olímpia): lógica, Java, HTML/CSS e MySQL. Em paralelo, o **FinnBot** e um plugin Spigot de entregas para servidor de Minecraft. |
+| **2022** | ⚙️ **Finn** e **NovaEra**: bots maiores, com sistema de música e CI no GitHub Actions. |
+| **2023** | ⚛️ Mergulho no front: React + Tailwind, app de IMC em **React Native**, site em **Next.js** para o SyrxMC e app mobile com **Ionic/Capacitor**. |
+| **2025** | 🏗️ APIs de verdade: **LogiStock** (Spring Boot + JWT) e **FourStory** (NestJS + SQL Server com front em Next.js). |
+| **2026** | 🚀 Produtos completos: **NexusBot** (bot modular com Lavalink, API e dashboard em Docker), **NovaByte** (bot SaaS por assinatura), **Compass** (monorepo com servidor, CLI e web para contexto de times) e o launcher do **OblyviumRP**. |
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErickFThomaz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFThomaz&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ErickFThomaz&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
-* Operational systems
-<p>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-* Tools
-<p>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="IDEA" src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a">
-</p>
-</details>
-
-</br>
-
-## 👨‍💻 GitHub Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erickfth&layout=compact&hide_title=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFThomaz&show_icons=true&theme=radical&count_private=true)
-
-![Snake animation](https://github.com/ErickFThomaz/ErickFThomaz/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickFThomaz/ErickFThomaz/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ErickFThomaz/ErickFThomaz/output/github-snake.svg" alt="Cobrinha comendo as contribuições"/>
+</picture>
